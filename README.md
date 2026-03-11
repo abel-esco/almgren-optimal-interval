@@ -38,5 +38,5 @@ LaTeX source code for the research paper.
 
 ## Author
 
-Abel Escobar-Lopez  
+Abel E.
 Kennesaw State University

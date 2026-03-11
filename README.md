@@ -39,4 +39,4 @@ LaTeX source code for the research paper.
 ## Author
 
 Abel E.
-Kennesaw State University
+CS @ Kennesaw State University

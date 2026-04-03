@@ -38,4 +38,4 @@ Plots illustrating the behavior of the area functional.
 ## Author
 
 Abel E.
-CS @ Kennesaw State University
+CS + Math @ Kennesaw State University

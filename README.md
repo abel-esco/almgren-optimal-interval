@@ -35,9 +35,6 @@ Helper scripts created during experimentation.
 figures/  
 Plots illustrating the behavior of the area functional.
 
-paper/  
-LaTeX source code for the research paper.
-
 ## Author
 
 Abel E.
